@@ -37,7 +37,8 @@ program()
 ~~~
 
 ### OUTPUT:
-![](sandeep.png)
+<img width="752" alt="Screenshot 2022-02-17 at 9 14 54 PM" src="https://user-images.githubusercontent.com/93427522/154519664-e305b208-bc09-4d2d-8b0b-09980ea2059b.png">
+
 
 
 
