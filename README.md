@@ -25,6 +25,8 @@ print the output
 
 ## PROGRAM:
 ~~~
+##Developed by : Sandeep Challa
+##Register number: 21003698
 def program():
     count=0
     with open("text.txt","r") as f:
@@ -37,8 +39,8 @@ program()
 ~~~
 
 ### OUTPUT:
-<img width="752" alt="Screenshot 2022-02-17 at 9 14 54 PM" src="https://user-images.githubusercontent.com/93427522/154519664-e305b208-bc09-4d2d-8b0b-09980ea2059b.png">
-
+![](program.png)
+![](text.png)
 
 
 
